@@ -1,0 +1,15 @@
+.container-search{
+    position: relative;
+    top: -20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+    /* background-color: blueviolet; */
+}
+.dropdown-submenu {
+    position: relative;}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;}
